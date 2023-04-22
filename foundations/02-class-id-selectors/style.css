@@ -1,0 +1,23 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.red {
+    background-color: salmon ;
+}
+
+.red.but_cooler {
+    font-size: x-large;
+}
+
+#number_2 {
+    color: blue;
+    font-size: xx-large;
+}
+
+#number_4 {
+    background-color: lightgreen;
+    font-size: large;
+    font-weight: bolder;
+    
+}
